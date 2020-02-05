@@ -1,0 +1,4 @@
+.venv
+.idea
+cdk.out
+dynamodb_isolation_poc.egg-info
